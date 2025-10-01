@@ -1,0 +1,1 @@
+https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/microsoft-endpoint-manager-create--audit-an-asr-policy/1512252
