@@ -122,7 +122,7 @@ If Defender updates are not managed internally (WSUS/ConfigMgr/FileShare), allow
 
 **Complete this validation before starting any deployment:**
 
-### 3.1 System & Configuration Validation &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#0078D4; font-size:0.85em;">⚡ **Validation:** Run [Check-DefenderPrereqs.ps1](https://raw.githubusercontent.com/Tungsten66/SharedScripts/refs/heads/main/Defender/Check-DefenderPrereqs.ps1)</span>
+### 3.1 System & Configuration &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#0078D4; font-size:0.85em;">⚡ **Validation:**
 
 #### Third-Party EPP Configuration
 
