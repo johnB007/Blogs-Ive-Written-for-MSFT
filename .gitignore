@@ -1,0 +1,9 @@
+# Rendered HTML siblings of Markdown are local previews only, never commit.
+*.html
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
+*.bak
